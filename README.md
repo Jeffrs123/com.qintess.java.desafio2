@@ -93,6 +93,13 @@ O projeto está dividido em 6 pacotes, onde os 3 primeiros a seguir são da impl
 ## Equipe
 ![Primeira Reunião da Equipe](img/Meet_1.jpg)
 
+[Alexsandro Felix](https://www.linkedin.com/in/alexsandro-felix-8203b1190/) | 
+[Ivanete Silva](https://www.linkedin.com/in/ivanete-silva-184717a2/) | 
+[Jefferson Rodrigues](https://www.linkedin.com/in/jeffersonrodriguesdasilva/) | 
+[João Victor](https://www.linkedin.com/in/jjoaovicttor/) | 
+[Marcos Beltrami](https://www.linkedin.com/in/marcos-beltrami-65396017b/) | 
+[Marianna Monteiro](https://www.linkedin.com/in/marianna-monteiro-de-oliveira-6bb0a81b0/)
+
 ## Parabéns Equipe
 
 Conhecimento sem uso é em vão. E nesse projeto, foi possível usar muito do que estamos aprendendo com nosso instrutor [Gustavo](https://br.linkedin.com/in/gustavo-martins-marinelli-0845a2123).
